@@ -1,0 +1,17 @@
+{
+  "name": "sudoku_solver",
+  "main": "sudoku_solver.js",
+  "authors": [
+    "Jeroen van der Laan <jvdlaan@unet.nl>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
